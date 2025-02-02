@@ -1,0 +1,1 @@
+export { CountPage as default } from '@/features/count/pages/count-page'

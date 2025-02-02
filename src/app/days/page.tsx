@@ -1,0 +1,1 @@
+export { DaysPage as default } from '@/features/days/pages/days-page'
